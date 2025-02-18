@@ -19,6 +19,7 @@ def setup_database():
     conn.close()
     print("Database setup complete.")
 
+
 # Function to add a new expense
 def add_expense(date, category, description, amount):
     conn = sqlite3.connect(DB_NAME)

@@ -84,3 +84,6 @@ def delete_expense_cli():
         database.delete_expense(expense_id)
     except ValueError:
         print("Invalid ID. Please enter a numeric value")
+
+if __name__ == "__main__":
+    main()
