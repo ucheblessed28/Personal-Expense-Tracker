@@ -1,0 +1,16 @@
+🚀 Excited to share my Personal Expense Tracker Web App! 🚀
+
+I’ve developed a simple yet powerful web application using Flask and SQLite that allows users to efficiently track their daily expenses. Features include:
+
+💸 Add, View, and Delete Expenses
+📊 Generate Monthly Reports
+📈 CSV Export for Easy Data Handling
+📱 Responsive Design for Mobile, Tablet, and Desktop
+💵 Currency Formatted
+
+This app is a great tool for anyone looking to stay on top of their finances, and it’s built with a sleek, responsive UI using Materialize for modern design.
+
+Check it out, and feel free to fork, modify, and contribute to the project! 🔧
+
+🔗 [GitHub Repository Link]
+#Flask #SQLite #WebDevelopment #FinanceApp #ExpenseTracker #CSVExport #TechProjects #Python
