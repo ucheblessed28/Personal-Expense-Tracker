@@ -33,10 +33,10 @@ else:
     plt.xticks(rotation=45)
     plt.show()
 
-conn.close()
-
 def export_to_csv():
     df.to_csv("expenses_report.csv", index=False)
     print("\n✅ Expenses exported to 'expenses_report.csv' successfully!")
 
 export_to_csv()
+
+conn.close()
