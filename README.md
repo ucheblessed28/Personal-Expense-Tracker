@@ -106,7 +106,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- **Materialize**: [Bootstrap Framework](https://getbootstrap.com) for the responsive design and UI components.
+- **Bootstrap**: [Bootstrap Framework](https://getbootstrap.com) for the responsive design and UI components.
 - **Flask Documentation**: [Flask Docs](https://flask.palletsprojects.com) for the Flask documentation.
 
 ---
