@@ -1,7 +1,3 @@
-Here's a professional and insightful `README.md` file for your **Personal Expense Tracker** project:
-
----
-
 # Personal Expense Tracker
 
 The **Personal Expense Tracker** is a simple, yet effective web application built using **Flask** and **SQLite** that allows users to track and manage their daily expenses. It offers a user-friendly interface, enabling users to add, view, and delete expenses, with a CSV export feature to download all expenses as a report. The project also includes features like responsive design, dynamic table updates, and a monthly report generation.
